@@ -77,24 +77,26 @@ Flow:
 
 📂 Folder Structure
 
+```bash
 CodeReviewer.AI/
-├── 🧠 backend/
-│   ├── ⚙️ server.js
-│   ├── 🔐 .env
-│   └── 📦 src/
-│       ├── 🚀 app.js
-│       ├── 🛣️ routes/
-│       ├── 🧩 controllers/
-│       └── 🧰 services/
+├── backend/
+│   ├── server.js
+│   ├── .env
+│   └── src/
+│       ├── app.js
+│       ├── routes/
+│       ├── controllers/
+│       └── services/
 │
-├── 💻 frontend/
-│   ├── 📂 src/
-│   │   ├── 🎨 components/
-│   │   ├── 📄 pages/
-│   │   └── 🧠 App.js
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   └── App.js
 │
-├── 📜 package.json
-└── 📝 README.md
+├── package.json
+└── README.md
+
 ---
 
 ⚡ Installation / Setup Instructions
