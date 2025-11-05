@@ -95,12 +95,7 @@ CodeReviewer.AI/
 
 ⚡ Installation / Setup Instructions
 
-1️⃣ Clone the repo
-
-git clone https://github.com/yourusername/CodeReviewerAI.git
-cd CodeReviewerAI
-
-2️⃣ Setup Backend
+Setup Backend
 
 cd backend
 npm install
@@ -111,7 +106,7 @@ Create a .env file:
 G_API_KEY=your_google_ai_key_here
 PORT=3000
 
-3️⃣ Setup Frontend
+Setup Frontend
 
 cd frontend
 npm install
