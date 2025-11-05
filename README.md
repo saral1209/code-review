@@ -3,8 +3,14 @@
 
 > "AI-Powered Code Review Assistant for Developers"
 
+[live demo : https://code-review-pro-git-main-saral-cs-projects-191e4891.vercel.app/]
+
+screenshots : 
+
+<img width="1348" height="634" alt="code1" src="https://github.com/user-attachments/assets/0065420e-e6e4-49e6-acaa-767e1f54e1a7" />
 
 
+<img width="1337" height="641" alt="Code 2" src="https://github.com/user-attachments/assets/a62eb12e-46cb-46ba-a162-fe80418dee45" />
 
 
 
